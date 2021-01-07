@@ -5,8 +5,8 @@ Widely used as a form of data entry from printed paper data records – whether 
 <h2>About this App</h2>
 <p>This app is made using <a href = "http://flutter.dev">Flutter</a> by Google and <a href = "https://github.com/tesseract-ocr/tesseract">Tesseract</a> API. By using <a href = "https://github.com/tesseract-ocr/tesseract">Tesseract</a>, our app does all the executions locally on the device, so there is no need for internet. <a href = "http://flutter.dev">Flutter</a> is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase. To know more about <a href = "https://github.com/tesseract-ocr/tesseract">Tesseract</a> click <a href = "https://tesseract-ocr.github.io/tessdoc/">here</a></p>
 <h2>Screenshots</h2>
-<img src = "https://github.com/Qtonium/OCR-Android-App/tree/master/Screenshots/a1.jpeg">
-<img src = "https://github.com/Qtonium/OCR-Android-App/tree/master/Screenshots/q2.jpeg">
-<img src = "https://github.com/Qtonium/OCR-Android-App/tree/master/Screenshots/a3.jpeg">
+<img src = "https://github.com/Qtonium/OCR-Android-App/blob/master/Screenshots/a1.png">
+<img src = "https://github.com/Qtonium/OCR-Android-App/blob/master/Screenshots/q2.png">
+<img src = "https://github.com/Qtonium/OCR-Android-App/blob/master/Screenshots/a3.png">
 
 
